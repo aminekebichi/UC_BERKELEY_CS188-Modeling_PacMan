@@ -1,6 +1,6 @@
 
 
-# UC Berkeley CS 188: Introduction to Artificial Intelligence - (Implemented By: Jason Balayev & Amine Kebichi)
+# UC Berkeley CS 188: Introduction to Artificial Intelligence
 
 This repository contains our implementations of the Pac-Man projects from [UC Berkeley's CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/su24/) course. These projects apply foundational AI concepts to the classic Pac-Man game, covering:
 
